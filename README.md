@@ -79,7 +79,6 @@ Global-Sales-Insights-Dashboard/
 ---
 
 ## 🧮 DAX Measures Used
-```DAX
 Total Sales = SUM(sales_data_sample[Sales])
 Total Quantity = SUM(sales_data_sample[QuantityOrdered])
 Profit = SUM(sales_data_sample[SALES]) * 0.20
