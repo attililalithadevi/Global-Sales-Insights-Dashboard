@@ -102,6 +102,13 @@ Average Sales per Order = [Total Sales] / DISTINCTCOUNT(sales_data_sample[OrderN
 💼 [GitHub ]: (https://github.com/attililalithadevi)  
 
 
+<img width="991" height="562" alt="Screenshot (826)" src="https://github.com/user-attachments/assets/fdd04a38-46de-492c-9a13-9f24461e82a3" />
+
+
+
+
+
+
 ---
 
 ## 📢 Acknowledgment
